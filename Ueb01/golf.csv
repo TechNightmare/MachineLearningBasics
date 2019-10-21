@@ -1,0 +1,15 @@
+﻿Outlook,Temperature,Humidity,Wind,Play,TemperatureN
+sunny,85,85,f,n,1
+sunny,73,90,t,n,0.435897436
+cloudy,83,78,f,y,0.904761905
+rain,70,96,f,y,0.285714286
+rain,68,80,f,y,0.19047619
+rain,65,70,t,n,0.047619048
+cloudy,64,65,t,y,0
+sunny,72,79,f,n,0.380952381
+sunny,69,70,f,y,0.238095238
+rain,75,80,f,y,0.523809524
+sunny,75,70,t,y,0.523809524
+cloudy,72,90,t,y,0.380952381
+cloudy,81,75,f,y,0.80952381
+rain,72,80,t,n,0.380952381
